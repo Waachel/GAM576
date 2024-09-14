@@ -1,0 +1,66 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3886-4F22
+
+ Directory of C:\Users\HP\Desktop\School\keenan2024winter_gam576\student\rmicolic\MS1\Data
+
+02/23/2024  12:52 AM    <DIR>          .
+02/23/2024  12:52 AM    <DIR>          ..
+02/23/2024  12:25 AM            10,684 2Bone.glb
+02/23/2024  12:25 AM           353,798 Birds.png
+02/23/2024  12:25 AM           352,916 Birds.tga
+02/23/2024  12:25 AM            10,684 BoneA.glb
+02/23/2024  12:25 AM            10,684 BoneB.glb
+02/23/2024  12:25 AM        16,823,226 bot.png
+02/23/2024  12:25 AM         3,578,358 ChickenbotDiffuse.png
+02/23/2024  12:52 AM        16,777,522 ChickenbotDiffuse.t.proto.azul
+02/23/2024  12:25 AM         2,942,124 crate.glb
+02/23/2024  12:52 AM         4,225,172 crate.mt.proto.azul
+02/23/2024  12:25 AM         1,153,482 crate_BaseColor.png
+02/23/2024  12:52 AM         4,194,610 crate_BaseColor.t.proto.azul
+02/23/2024  12:52 AM             1,603 CubeMesh.m.proto.azul
+02/23/2024  12:52 AM             4,480 die_left+mesh.clip
+02/23/2024  12:25 AM         3,778,304 die_left+mesh.glb
+02/23/2024  12:25 AM           197,285 Duckweed.png
+02/23/2024  12:25 AM           196,626 Duckweed.tga
+02/23/2024  12:25 AM            37,753 FontArial36.png
+02/23/2024  12:52 AM           644,399 FontArial36.t.proto.azul
+02/23/2024  12:52 AM                 0 fooxx.txt
+02/23/2024  12:25 AM            11,557 MetricsArial36.xml
+02/23/2024  12:52 AM             2,306 MetricsArial36.xml.proto.azul
+02/23/2024  12:25 AM         1,284,217 MudkipEmotes.png
+02/23/2024  12:52 AM         7,953,506 MudkipEmotes.t.proto.azul
+02/23/2024  12:52 AM             1,219 PyramidMesh.m.proto.azul
+02/23/2024  12:25 AM         1,131,484 R2-D2.glb
+02/23/2024  12:52 AM         1,311,895 R2-D2.mt.proto.azul
+02/23/2024  12:25 AM        46,977,395 R2D2_BaseColor.png
+02/23/2024  12:52 AM        67,109,170 R2D2_BaseColor.t.proto.azul
+02/23/2024  12:25 AM         3,073,588 R2D2_ColorID.png
+02/23/2024  12:52 AM        67,109,170 R2D2_ColorID.t.proto.azul
+02/23/2024  12:25 AM           196,626 RedBrick.tga
+02/23/2024  12:25 AM           196,626 Rocks.tga
+02/23/2024  12:52 AM             2,688 run+mesh.clip
+02/23/2024  12:25 AM         3,777,336 run+mesh.glb
+02/23/2024  12:52 AM             3,360 sidestep_right+mesh.clip
+02/23/2024  12:25 AM         3,777,052 sidestep_right+mesh.glb
+02/23/2024  12:25 AM            21,200 space_frigate.glb
+02/23/2024  12:52 AM         1,068,409 space_frigate.mt.proto.azul
+02/23/2024  12:52 AM         1,048,879 space_frigate.t.proto.azul
+02/23/2024  12:25 AM           786,450 space_frigate.tga
+02/23/2024  12:52 AM               399 SpriteMesh.m.proto.azul
+02/23/2024  12:25 AM            17,799 StarCute.png
+02/23/2024  12:52 AM           497,103 StarCute.t.proto.azul
+02/23/2024  12:25 AM           492,044 stitch.tga
+02/23/2024  12:25 AM           196,652 Stone.tga
+02/23/2024  12:25 AM           197,285 TEST_PNG_RGB.png
+02/23/2024  12:52 AM           262,447 TEST_PNG_RGB.t.proto.azul
+02/23/2024  12:25 AM           353,798 TEST_PNG_RGBA.png
+02/23/2024  12:52 AM           353,175 TEST_PNG_RGBA.t.proto.azul
+02/23/2024  12:52 AM           262,447 TEST_TGA_BGR.t.proto.azul
+02/23/2024  12:25 AM           196,626 TEST_TGA_BGR.tga
+02/23/2024  12:52 AM           492,303 TEST_TGA_BGRA.t.proto.azul
+02/23/2024  12:25 AM           492,044 TEST_TGA_BGRA.tga
+02/23/2024  12:52 AM             4,480 walk_mesh.clip
+02/23/2024  12:25 AM         3,779,808 walk_mesh.glb
+02/23/2024  12:24 AM                 0 __Converted Assets__.txt
+              57 File(s)    269,736,253 bytes
+               2 Dir(s)  567,143,575,552 bytes free

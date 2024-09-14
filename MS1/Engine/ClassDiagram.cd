@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Azul::GameObject" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAQAAAAAAgAkAAAARAAAAAABAAAAAAAAAhEAIAAAA=</HashCode>
+      <FileName>src\GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectRigid" Collapsed="true">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>src\GameObjectRigid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectBasic" Collapsed="true">
+    <Position X="1.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAUADQIgAAAAAggAAAAAAAAAAAAAAAAAIgAgAAAAA=</HashCode>
+      <FileName>src\GameObjectBasic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectAnim" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAACgAAAAAAA=</HashCode>
+      <FileName>src\GameObjectAnim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectAnimSkin" Collapsed="true">
+    <Position X="3.75" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIRAEAAAIgAAAAAAAAEgAAAAAAEIAQQAAAIgEgABAAA=</HashCode>
+      <FileName>src\GameObjectAnimSkin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectAnimSkeleton" Collapsed="true">
+    <Position X="6.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIRAEAAAIgAAAAAAAAEAAgAAAAEIgQAAAAIgEgABAAA=</HashCode>
+      <FileName>src\GameObjectAnimSkeleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
